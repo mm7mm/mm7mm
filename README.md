@@ -5,7 +5,7 @@
 I am a passionate software developer who enjoys creating innovative and effective technology solutions. I work on a variety of projects and love sharing my knowledge and experience with others. On my profile, you'll find a collection of my projects and contributions that showcase my expertise in the field. Thank you for visiting, and feel free to reach out if you have any questions or collaboration opportunities!
 
 ## Skills: 
-- ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) 
+![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) 
   ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png) 
  ![Python](https://img.icons8.com/color/20/000000/python.png) 
  ![C](https://img.icons8.com/color/20/000000/c-programming.png) 
