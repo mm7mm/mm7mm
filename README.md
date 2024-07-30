@@ -19,5 +19,7 @@ I am a passionate software developer who enjoys creating innovative and effectiv
 - 😄 Pronouns: Pronouns: He/Him or She/Her (choose according to your preference) 
 - ⚡ Fun fact:  Fun fact: I love hiking and often find inspiration for coding while exploring nature! 
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mm7mm)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohamed-abdalrazeq-4a0b2a2b7/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m7mmd_abd)  
 
+[<img src='https://img.icons8.com/color/40/000000/github--v1.png' alt='github'>](https://github.com/mm7mm)
+[<img src='https://img.icons8.com/color/40/000000/linkedin.png' alt='linkedin'>](https://www.linkedin.com/in/mohamed-abdalrazeq-4a0b2a2b7/)
+[<img src='https://img.icons8.com/color/40/000000/twitter--v1.png' alt='twitter'>](https://twitter.com/m7mmd_abd)
