@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Muhammed
 #### I am a software developer with experience in various technologies. Here, you can find my projects and contributions
-![I am a software developer with experience in various technologies. Here, you can find my projects and contributions] https://www.canva.com/design/DAGMd7iH2Cc/XBt2cweBoCAtUHGP_kQq9w/edit?utm_content=DAGMd7iH2Cc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+![I am a software developer with experience in various technologies. Here, you can find my projects and contributions] https://www.dropbox.com/scl/fi/uxgoult4uay42tf6s3oi1/Blue-And-Green-Professional-Technology-LinkedIn-Banner.png?rlkey=s6b8toxtzvca6fx4gelz3tn3b&st=mimfoytp&dl=0
 
 I am a passionate software developer who enjoys creating innovative and effective technology solutions. I work on a variety of projects and love sharing my knowledge and experience with others. On my profile, you'll find a collection of my projects and contributions that showcase my expertise in the field. Thank you for visiting, and feel free to reach out if you have any questions or collaboration opportunities!
 
