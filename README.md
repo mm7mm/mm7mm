@@ -10,6 +10,6 @@ I am a passionate software developer who enjoys creating innovative and effectiv
 * Js 
 * Python
 * C
-*C++ 
+* C++ 
 
 - 🔭 I’m currently working on this page. 
