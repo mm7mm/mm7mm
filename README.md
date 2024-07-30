@@ -5,11 +5,11 @@
 I am a passionate software developer who enjoys creating innovative and effective technology solutions. I work on a variety of projects and love sharing my knowledge and experience with others. On my profile, you'll find a collection of my projects and contributions that showcase my expertise in the field. Thank you for visiting, and feel free to reach out if you have any questions or collaboration opportunities!
 
 ##Skills: 
-*HTML 
-*CSS 
-*Js 
-*Python
-*C
+* HTML 
+* CSS 
+* Js 
+* Python
+* C
 *C++ 
 
 - 🔭 I’m currently working on this page. 
